@@ -11,9 +11,8 @@
 ---
 
 ## :clipboard: About
-Just a repository where I can put all the exercises (challenges) I did in **LaunchBase Bootcamp**.
-
-this README is still in progress and will be updated according to my evolution in **LaunchBase**.
+This is a repository with the challenges of **LaunchBase**.
+This readme is in development, it will be updated according to my progress on **LaunchBase**.
 
 ---
 
