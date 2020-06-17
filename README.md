@@ -17,7 +17,7 @@ This readme is in development, it will be updated according to my progress on **
 
 ---
 
-## :computer: Technologies used
+## 🚀 Technologies used
 - [JavaScript](https://www.javascript.com/)
 - [NodeJS](https://nodejs.org/en/)
 
@@ -41,14 +41,13 @@ This readme is in development, it will be updated according to my progress on **
 ```bash
   # clone the repository
   $ git clone https://github.com/LeonardoCosta90/Bootcamp.git
-```
-To run the code in exercises that contain **only JavaScript** it is necessary to navigate to the file folder and run
-```bash
+
+  #To run the code in exercises that contain **only JavaScript** it is necessary to navigate to the file folder and run
   node <file_name.js>
 ``` 
 
 ---
 
-Being developed :heart: exclusively by ***Leonardo Costa***
+Developed 💜 by ***Leonardo Costa***
  
 
