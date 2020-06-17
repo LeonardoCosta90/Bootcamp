@@ -12,6 +12,7 @@
 
 ## :clipboard: About
 This is a repository with the challenges of **LaunchBase**.
+
 This readme is in development, it will be updated according to my progress on **LaunchBase**.
 
 ---
